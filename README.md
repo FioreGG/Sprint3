@@ -1,5 +1,3 @@
-# Sprint3
-Archivo de codigo: US2_S3.py
-Archivo con datos sobre la pagina: Configuracion
-Archivo con los xpath, id, txt, btn, dpd, demas: bensimon_registro
-Archivo denominado GarciaGalfioneFiorella.html: reporte de los test case
+# Sprint3  																																																																																						
+Archivo de codigo: US2_S3.py																																																																																Archivo con datos sobre la pagina: Configuracion.ini																																																																					Archivo con los xpath, id, txt, btn, dpd, demas: bensimon_registro.py																																																													Archivo denominado GarciaGalfioneFiorella.html: reporte de los test case
+Screenshoot de evidencia de los productos en el carrito: Carrito_compras.png
